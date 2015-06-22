@@ -1,0 +1,70 @@
+[
+  {
+    "name": "fx-logger",
+    "version": "*"
+  },
+  {
+    "name": "fx-eventbus",
+    "version": "*"
+  },
+  {
+    "name": "fx-express",
+    "version": "*"
+  },
+  {
+    "name": "fx-ejs",
+    "version": "*"
+  },
+  {
+    "name": "fx-file",
+    "version": "*"
+  },
+  {
+    "name": "fx-markdown",
+    "version": "*"
+  },
+  {
+    "name": "fx-middleware",
+    "version": "*"
+  },
+  {
+    "name": "fx-mongodb",
+    "version": "*"
+  },
+  {
+    "name": "fx-mysql",
+    "version": "*"
+  },
+  {
+    "name": "fx-red",
+    "version": "*"
+  },
+  {
+    "name": "fx-wavelet-debug",
+    "version": "*"
+  },
+  {
+    "name": "fx-red-ejs",
+    "version": "*"
+  },
+  {
+    "name": "fx-red-eventbus",
+    "version": "*"
+  },
+  {
+    "name": "fx-red-file",
+    "version": "*"
+  },
+  {
+    "name": "fx-red-markdown",
+    "version": "*"
+  },
+  {
+    "name": "fx-red-mongodb",
+    "version": "*"
+  },
+  {
+    "name": "fx-red-mysql",
+    "version": "*"
+  }
+]

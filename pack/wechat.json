@@ -1,0 +1,10 @@
+[
+  {
+    "name": "fx-wechat",
+    "version": "*"
+  },
+  {
+    "name": "fx-red-wechat",
+    "version": "*"
+  }
+]
